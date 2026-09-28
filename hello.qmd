@@ -3,7 +3,7 @@ title: "Hello"
 format:
   html:
     embed-resources: true
----
+---First Quarto Document
 
 ```{r}
 summary(cars)
