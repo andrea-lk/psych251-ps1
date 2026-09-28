@@ -1,0 +1,10 @@
+---
+title: "Hello"
+format:
+  html:
+    embed-resources: true
+---
+
+```{r}
+summary(cars)
+```
